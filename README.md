@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Achref Bensaad
-- 🔐 Cybersecurity Engineering Student | 🎮 Game Developer | Computer Engineering Degree
+- 🔐 Cybersecurity Engineering Student |  Computer Engineering Degree
 
 - 👨‍💻 Cybersecurity Enthusiast: Currently pursuing my degree in cybersecurity engineering, I am dedicated to mastering the art of securing networks, data, and systems. I'm fascinated by the ever-evolving world of cyber threats and the critical role cybersecurity plays in our digital age.
-
-- 🎮 Game Developer: In addition to my cybersecurity pursuits, I'm an avid game developer. I thrive on designing and building virtual worlds that captivate and challenge players. Whether it's creating captivating storylines, crafting intricate game mechanics, or optimizing performance, I relish every aspect of the game development process.
 
 - 🚀 Continuous Learning: I am committed to staying at the forefront of both cybersecurity and game development fields through ongoing education, certifications, and participation in industry events. I believe in the power of knowledge to drive innovation and protect the digital ecosystem.
 
